@@ -2,7 +2,7 @@
 
 # Hi, I'm Nak 🦦
 
-**Fiat lux **
+**Fiat lux**
 Average life enjoyer.
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/NakZaa.svg?variant=secondary&size=sm)](https://github.com/NakZaa?tab=followers) [![Public Repos](https://www.shieldcn.dev/badge/Repos-12-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/NakZaa?tab=repositories)
